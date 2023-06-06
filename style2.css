@@ -259,7 +259,7 @@ transition: 1s all ease;
 
       .area {
         border: 2px dashed grey;
-        background-image: url("images/upload.png");
+        background-image: url("upload.png");
         background-position: center;
         background-repeat: no-repeat;
         background-size: 4rem 4rem;
